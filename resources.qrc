@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/cow" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
